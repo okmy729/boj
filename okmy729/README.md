@@ -1,10 +1,10 @@
 # My profile
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=okmy2006)](https://github.com/mazassumnida/mazassumnida)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koosaga)](https://solved.ac/koosaga)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmy2006)](https://solved.ac/okmy2006)
 
 
 
