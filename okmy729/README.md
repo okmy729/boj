@@ -7,7 +7,9 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmy729)](https://solved.ac/okmy729)
 
 
-History
+
+
+# History
 1. jinse elementary school(Graduated)
 2. munseong middle school(attending)
 3. achieved PLATINUM(boj)
