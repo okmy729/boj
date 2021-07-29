@@ -3,7 +3,7 @@ import requests
 import locale
 
 from django.http import HttpResponse
-from .images import UNKNOWN, UNRATED, BRONZE, SILVER, GOLD, PLATINUM, DIAMOND, RUBY, MASTER
+from .images import UNKNOWN, UNRATED, BRONZE, SILVER, GOLD, testing, DIAMOND, RUBY, MASTER
 
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
