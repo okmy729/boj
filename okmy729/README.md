@@ -11,5 +11,6 @@
 
 # History
 1. jinje elementary school(Graduated)
-2. munseong middle school(attending)
+2. munseong middle school(Graduated)
 3. achieved PLATINUM(boj)
+4. seoksan high school(attending)
